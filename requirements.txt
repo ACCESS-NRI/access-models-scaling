@@ -1,2 +1,8 @@
+git+https://github.com/ACCESS-NRI/access-parsers
 git+https://github.com/ACCESS-NRI/access-experiment-generator
+git+https://github.com/ACCESS-NRI/access-experiment-runner
+payu@git+https://github.com/payu-org/payu
+xarray
+matplotlib
+ipykernel
 
