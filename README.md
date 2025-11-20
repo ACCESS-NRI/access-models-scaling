@@ -2,16 +2,16 @@
 
 ## About
 
-The [ACCESS-NRI Model Scaling Repository](https://github.com/ACCESS-NRI/access-models-scaling/) is a collection of Jupyter Notebooks that generate and display scaling data for ACCESS-NRI models.
+The [ACCESS-NRI Model Scaling Repository](https://github.com/ACCESS-NRI/access-model-scaling/) is a collection of Jupyter Notebooks that generate and display scaling data for ACCESS-NRI models.
 
 We expect this data to be useful to both users and developers. It can be used to guide decisions about parallelisation layouts and CPU core counts when developing model configurations in order to ensure good balance between performance and parallel efficiency. It can also help identifying areas where codes can be improved and optimised. Finally, the provided plots and tables that can be used in NCMAS applications and other similar merit allocation schemes when requesting HPC resources.
 
 Currently the repository includes scaling data for the following models:
 
-* [ACCESS-ESM1.6](https://github.com/ACCESS-NRI/access-models-scaling/blob/main/ESM1p6-scaling.ipynb) 
-* [ACCESS-rAM3](https://github.com/ACCESS-NRI/access-models-scaling/blob/main/ram3.ipynb)
-* [ACCESS-OM3 Global 25km](https://github.com/ACCESS-NRI/access-models-scaling/blob/main/accessom3_global_25km.ipynb)
-* [ACCESS-OM3 Pan-Antarctic 4km](https://github.com/ACCESS-NRI/access-models-scaling/blob/main/accessom3_panan_4km.ipynb)
+* [ACCESS-ESM1.6](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ESM1p6-scaling.ipynb) 
+* [ACCESS-rAM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ram3.ipynb)
+* [ACCESS-OM3 Global 25km](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/accessom3_global_25km.ipynb)
+* [ACCESS-OM3 Pan-Antarctic 4km](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/accessom3_panan_4km.ipynb)
 
 We expect to regularly add new models to this list and update the existing notebooks when new versions of the models are available.
 
@@ -21,7 +21,7 @@ The notebooks do not include any type of resource usage estimate, like SUs per m
 
 ## Where do I ask questions?
 
-We welcome feedback and contributions through the [ACCESS-Hive forum](https://forum.access-hive.org.au/). Please create a topic in the #technical category and [follow the guidelines for requesting help from ACCESS-NRI](https://forum.access-hive.org.au/t/access-help-and-support/908) should you need it. You can also open an issue [on Github](https://github.com/ACCESS-NRI/access-models-scaling/issues/new/).
+We welcome feedback and contributions through the [ACCESS-Hive forum](https://forum.access-hive.org.au/). Please create a topic in the #technical category and [follow the guidelines for requesting help from ACCESS-NRI](https://forum.access-hive.org.au/t/access-help-and-support/908) should you need it. You can also open an issue [on Github](https://github.com/ACCESS-NRI/access-model-scaling/issues/new/).
 
 ## Running the notebooks
 
