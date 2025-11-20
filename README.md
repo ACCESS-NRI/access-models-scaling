@@ -8,10 +8,13 @@ We expect this data to be useful to both users and developers. It can be used to
 
 Currently the repository includes scaling data for the following models:
 
-* [ACCESS-ESM1.6](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ESM1p6-scaling.ipynb) 
-* [ACCESS-rAM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ram3.ipynb)
-* [ACCESS-OM3 Global 25km](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/accessom3_global_25km.ipynb)
-* [ACCESS-OM3 Pan-Antarctic 4km](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/accessom3_panan_4km.ipynb)
+* [ACCESS-ESM1.6](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-ESM1.6)
+  * [dev-preindustrial+concentrations](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-ESM1.6/dev-preindustrial+concentrations.ipynb)
+* [ACCESS-rAM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-rAM3)
+  * [u-by395/nci_access_ram3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-rAM3/u-by395/nci_access_ram3.ipynb)
+* [ACCESS-OM3](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3)
+  * [dev-MC_25km_jra_ryf](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3/dev-MC_25km_jra_ryf.ipynb)
+  * [dev-MC_4km_jra_ryf+regionalpanan](https://github.com/ACCESS-NRI/access-model-scaling/blob/main/ACCESS-OM3/dev-MC_4km_jra_ryf+regionalpanan.ipynb)
 
 We expect to regularly add new models to this list and update the existing notebooks when new versions of the models are available.
 
